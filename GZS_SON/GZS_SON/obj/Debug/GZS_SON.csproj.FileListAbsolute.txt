@@ -1,0 +1,10 @@
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\bin\Debug\GZS_SON.exe.config
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\bin\Debug\GZS_SON.exe
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\bin\Debug\GZS_SON.pdb
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\obj\Debug\GZS_SON.csprojResolveAssemblyReference.cache
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\obj\Debug\GZS_SON.Form1.resources
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\obj\Debug\GZS_SON.Form2.resources
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\obj\Debug\GZS_SON.Properties.Resources.resources
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\obj\Debug\GZS_SON.csproj.GenerateResource.Cache
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\obj\Debug\GZS_SON.exe
+c:\users\burakakbayrak\documents\visual studio 2015\Projects\GZS_SON\GZS_SON\obj\Debug\GZS_SON.pdb
